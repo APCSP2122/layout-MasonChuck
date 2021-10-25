@@ -7,7 +7,7 @@ html {
 
 body {
     color: #000;    
-    font-size:  2.5rem;
+    font-size:  2rem;
 }
 
 
@@ -16,10 +16,10 @@ header {
     background-color:   DeepSkyBlue;
     border:  10px Solid Orange;
     margin: 50px;
-     padding: 50px;
-     display: flex;
-     justify-content: space-between;
-     align-items:    center;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items:    center;
 }
 
 
